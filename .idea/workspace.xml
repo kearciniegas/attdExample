@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bdaf49d-7234-4695-a134-c97e9562cd5b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/runner/fibonacciRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/runner/fibonacciRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/steps/fibonacciSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/steps/fibonacciSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/creaci#f3n#20de#20secuencia#20fibonacci.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/creaci#f3n#20de#20secuencia#20fibonacci.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/runner.fibonacciRunner.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/runner.fibonacciRunner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/runner.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/runner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-creaci#f3n#20de#20secuencia#20fibonacci.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-creaci#f3n#20de#20secuencia#20fibonacci.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-runner.fibonacciRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-runner.fibonacciRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/features/fibonacci.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/fibonacci.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steps/SecuenciaFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/steps/SecuenciaFibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner/fibonacciRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/fibonacciRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/fibonacciSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/fibonacciSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/19b184a6065a8fbb173386337a07254131de5ce15c6b515942c3f636e62943ef.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/19b184a6065a8fbb173386337a07254131de5ce15c6b515942c3f636e62943ef.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/19b184a6065a8fbb173386337a07254131de5ce15c6b515942c3f636e62943ef.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/19b184a6065a8fbb173386337a07254131de5ce15c6b515942c3f636e62943ef.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/528c54dc916bcccc491b856aac2b1f557e1993bb1afaaafe5f64a1c9dcc13e39.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/528c54dc916bcccc491b856aac2b1f557e1993bb1afaaafe5f64a1c9dcc13e39.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/528c54dc916bcccc491b856aac2b1f557e1993bb1afaaafe5f64a1c9dcc13e39.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/528c54dc916bcccc491b856aac2b1f557e1993bb1afaaafe5f64a1c9dcc13e39.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/63f8ca79a3a606dcac867d269e951bea4acc0f2121223c53640775c81b6ab88d.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/63f8ca79a3a606dcac867d269e951bea4acc0f2121223c53640775c81b6ab88d.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/63f8ca79a3a606dcac867d269e951bea4acc0f2121223c53640775c81b6ab88d.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/63f8ca79a3a606dcac867d269e951bea4acc0f2121223c53640775c81b6ab88d.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1otIFoeorV4GN5DxSOLTCRojwM3" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Pipeline\attdExample\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="fibonacciRunner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;runner.fibonacciRunner&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.fibonacciRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bdaf49d-7234-4695-a134-c97e9562cd5b" name="Default Changelist" comment="" />
+      <created>1614099359023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614099359023</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1311" height="3" key="GridCell.Tab.0.bottom" timestamp="1614107357512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="3" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.77.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1614107357512" />
+    <state width="1311" height="3" key="GridCell.Tab.0.center" timestamp="1614107357512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="3" key="GridCell.Tab.0.center/0.0.1366.728/1366.77.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1614107357512" />
+    <state width="1311" height="3" key="GridCell.Tab.0.left" timestamp="1614107357512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="3" key="GridCell.Tab.0.left/0.0.1366.728/1366.77.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1614107357512" />
+    <state width="1311" height="3" key="GridCell.Tab.0.right" timestamp="1614107357512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="3" key="GridCell.Tab.0.right/0.0.1366.728/1366.77.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1614107357512" />
+    <state width="1311" height="256" key="GridCell.Tab.1.bottom" timestamp="1614106951297">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="256" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.77.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1614106951297" />
+    <state width="1311" height="256" key="GridCell.Tab.1.center" timestamp="1614106951296">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="256" key="GridCell.Tab.1.center/0.0.1366.728/1366.77.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1614106951296" />
+    <state width="1311" height="256" key="GridCell.Tab.1.left" timestamp="1614106951296">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="256" key="GridCell.Tab.1.left/0.0.1366.728/1366.77.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1614106951296" />
+    <state width="1311" height="256" key="GridCell.Tab.1.right" timestamp="1614106951297">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="256" key="GridCell.Tab.1.right/0.0.1366.728/1366.77.1366.728/-1600.-137.1600.860@0.0.1366.728" timestamp="1614106951297" />
+  </component>
+</project>

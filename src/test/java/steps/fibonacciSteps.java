@@ -16,7 +16,7 @@ public class fibonacciSteps {
 
     @When("enviando la posicion {int}")
     public void enviandoLaPosicion(Integer int1) {
-        resultado = secuenciaFibonacci.secuenciaposiciones();
+        resultado = secuenciaFibonacci.secuenciaposiciones(int1);
     }
 
     @Then("espero un {int}")

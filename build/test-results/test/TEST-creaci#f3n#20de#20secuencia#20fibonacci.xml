@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="creación de secuencia fibonacci" tests="4" skipped="4" failures="0" errors="0" timestamp="2021-02-23T02:52:25" hostname="KEVINP-ARCINIEGAS" time="0.168">
+  <properties/>
+  <testcase name="secuencia en posición 0 donde retorne un valor de 0" classname="creación de secuencia fibonacci" time="0.05">
+    <skipped/>
+  </testcase>
+  <testcase name="secuencia en posición 1 donde retorne un valor de 1" classname="creación de secuencia fibonacci" time="0.014">
+    <skipped/>
+  </testcase>
+  <testcase name="secuencia en posición 2 donde retorne un valor de 1" classname="creación de secuencia fibonacci" time="0.033">
+    <skipped/>
+  </testcase>
+  <testcase name="secuencia en posición 9 donde retorne un valor de 34" classname="creación de secuencia fibonacci" time="0.012">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[?[33mU?[0m?[33mU?[0m?[33mU?[0m?[33mU?[0m?[33mU?[0m?[33mU?[0m?[33mU?[0m?[33mU?[0m?[33mU?[0m?[33mU?[0m?[33mU?[0m?[33mU?[0m]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
